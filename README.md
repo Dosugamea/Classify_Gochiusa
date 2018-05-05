@@ -18,36 +18,36 @@ Don't recommend to use this to learning.
 ## Learn info
 I used separeted images by OpenCV with lbpcascade_animeface.
 
-vgg16_gochiusa_fine
-[Base]
-> Epoch 20
-> BatchSize 32
-> ShapeSize 64
-> val_acc 0.97
-[Used Pictures]
-> aoyama x54
-> chino x2239
-> chiya x337
-> cocoa x777
-> maya x162
+vgg16_gochiusa_fine  
+> [Base]  
+> Epoch 20  
+> BatchSize 32  
+> ShapeSize 64  
+> val_acc 0.97  
+[Used Pictures]  
+> aoyama x54  
+> chino x2239  
+> chiya x337  
+> cocoa x777  
+> maya x162  
 > megu x139
   
-vgg16_gochiusa_fine2
-[Base]
-> Epoch 30
-> BatchSize 32
-> ShapeSize 128
-> val_acc 0.94
+vgg16_gochiusa_fine2  
+> [Base]  
+> Epoch 30  
+> BatchSize 32  
+> ShapeSize 128  
+> val_acc 0.94  
 [Used Pictures]
-> aoyama x54
-> chino x2239
-> chiya x337
-> cocoa x777
-> maya x162
-> megu x139
-> other x688
+> aoyama x54  
+> chino x2239  
+> chiya x337  
+> cocoa x777  
+> maya x162  
+> megu x139  
+> other x688  
   
-##Bibliography
+## Bibliography
 VGG16を転移学習させて「まどか☆マギカ」のキャラを見分ける  
 https://qiita.com/God_KonaBanana/items/2cf829172087d2423f58  
 機械学習でNEW GAME!のキャラを判別してみた  
